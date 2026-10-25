@@ -2,6 +2,7 @@
 metanorma:
   source:
     files:
+      - api/part1/standard/23-001r0.adoc
       - metanorma/ogcapi-connected-systems/document.adoc
 
   collection:
